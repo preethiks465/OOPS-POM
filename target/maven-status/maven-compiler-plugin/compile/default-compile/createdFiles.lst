@@ -1,0 +1,6 @@
+com\mypages\BasePage.class
+com\mypages\Page.class
+com\mypages\LoginPage.class
+com\mytests\BaseTest.class
+com\mypages\HomePage.class
+com\mytests\LoginTest.class
